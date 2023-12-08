@@ -33,7 +33,7 @@
 <tr><td>
 
   ### Work Experience
-    - Confidential for now. &emsp; 📌 2021-10-8 —— Now
+    - Confidential for now.   📌 2021-10-8 —— Now
   
 </td></tr>
 

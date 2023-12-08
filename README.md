@@ -63,9 +63,7 @@
 
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura4036&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura4036&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakura4036&left_color=green&right_color=red)
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Sakura4036" /> </div>
 

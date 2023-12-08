@@ -18,24 +18,25 @@
 </div>
 
 <table>
-<tr>
-  <td>
-  ### About Me
+  
+<tr><td>
+  
+### About Me
   <p>&emsp;&emsp;大家好，我叫黄同学。</p>
   <p>&emsp;&emsp;喜欢电子游戏、电影、动漫、小说。</p>
   <p>&emsp;&emsp;热爱计算机科学，励志成为一名优秀的(AI)程序员。</p>
     
-  </td>
-</tr>
+</td></tr>
 
-<tr>
-  <td>
-    ### Work Experience
+<tr><td>
+
+  ### Work Experience
     - Confidential for now. &emsp; 📌 2021-10-8 —— Now
-  </td>
-</tr>
-<tr>
-<td>
+  
+</td></tr>
+
+<tr><td>
+  
   ### 📊 WakaTime
   <picture>
   <source
@@ -48,8 +49,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakura4036&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
   </picture>
-</td>
-</tr>
+
+</td></tr>
+
 </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura4036&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

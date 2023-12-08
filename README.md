@@ -63,7 +63,7 @@
 
 </table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakura4036&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sakura4036.Sakura4036&left_color=green&right_color=red)
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Sakura4036" /> </div>
 

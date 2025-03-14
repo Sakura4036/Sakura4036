@@ -33,7 +33,7 @@
 <tr><td>
 
   ### Work Experience
-    - Confidential for now.   📌 2021-10-8 —— Now
+    - As a AI algorithm engineer.   📌 2021-10-8 —— Now
   
 </td></tr>
 
